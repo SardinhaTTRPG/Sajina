@@ -1,0 +1,152 @@
+{
+  "mapMarkers": [
+    {
+      "id": "sajina-map",
+      "lastAccessed": 1711038697859,
+      "markers": [
+        {
+          "id": "ID_aa49094a49c8",
+          "type": "default",
+          "loc": [
+            -0.006723096687063773,
+            0.0017479141014437975
+          ],
+          "link": "Gorgoroth",
+          "layer": "%5B%5BSajina.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09d8a80aeb5b",
+          "type": "default",
+          "loc": [
+            -0.004230700653523543,
+            0.004466891592578594
+          ],
+          "link": "Salandra",
+          "layer": "%5B%5BSajina.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a9b3bc96aa8",
+          "type": "default",
+          "loc": [
+            -0.006140458653249174,
+            0.011436968811916205
+          ],
+          "link": "Drakendor",
+          "layer": "%5B%5BSajina.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a79abca5a69",
+          "type": "default",
+          "loc": [
+            -0.00876232980541487,
+            0.011555654337322883
+          ],
+          "link": "LeefTown",
+          "layer": "%5B%5BSajina.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb19f8196b5a",
+          "type": "default",
+          "loc": [
+            -0.001115560531616211,
+            0.0139923095703125
+          ],
+          "link": "Canby",
+          "layer": "%5B%5BSajina.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8a9ab9a3b9a",
+          "type": "default",
+          "loc": [
+            -0.003785848617553711,
+            0.0117034912109375
+          ],
+          "link": "Thrumdor",
+          "layer": "%5B%5BSajina.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Sajina.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.2",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 2
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
